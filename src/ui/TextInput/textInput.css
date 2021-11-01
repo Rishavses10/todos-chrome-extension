@@ -1,0 +1,12 @@
+.input-textbox{
+  border: none;
+  border-bottom: 2px solid var(--primary-color);
+  background-color: transparent;
+  width: 280px;
+  outline: none;
+  caret-color: var(--primary-color);
+  padding: 4px 0;
+  font-size: 14px;
+  color: var(--sub-text);
+  text-overflow: ellipsis;
+}

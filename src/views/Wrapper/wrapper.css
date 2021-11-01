@@ -1,0 +1,12 @@
+
+.wrapper{
+  position: relative;
+  height: 500px;
+  width: 350px;
+  font-size: 16px;
+  background-color: var(--background-color);
+}
+
+.app-body{
+  padding: 8px 16px;
+}

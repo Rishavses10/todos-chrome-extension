@@ -1,0 +1,6 @@
+export const APP = {
+  SET_APP_THEME: 'SET_APP_THEME',
+  ADD_TODO: 'ADD_TODO',
+  REMOVE_TODO: 'REMOVE_TODO'
+}
+

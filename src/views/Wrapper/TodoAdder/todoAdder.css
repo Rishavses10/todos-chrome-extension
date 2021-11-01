@@ -1,0 +1,14 @@
+.todo-adder-wrapper{
+  max-width: 316px;
+  width: 100%;
+  position:absolute;
+  bottom: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.add-todo-button {
+  background-color: transparent;
+  border: none;
+  color: var(--primary-color);
+}
